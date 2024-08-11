@@ -4,7 +4,7 @@
 - <b>Currently Learning at CS50</b>
 - [CS50 Introduction to Programming] <b>
   
-</b>(https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home/Algorithms-Practice)
+</b>(https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
