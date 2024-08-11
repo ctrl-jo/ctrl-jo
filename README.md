@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joseph! <br/><a href="https://github.com/ctrl-jo/ctrl-jo">Student Programmer</a>, <a href="https://www.linkedin.com/in/joseph-mercado-466b5231a/">I.T Student</a>
+<h1>Hi, I'm Joseph! <br/><a href="https://github.com/ctrl-jo/ctrl-jo">Working Student</a>, <a href="https://www.linkedin.com/in/joseph-mercado-466b5231a/">I.T Student</a>
 
 <h2> 🤖 Software Development Learning:</h2>
 - <b>Currently Learning at CS50</b>
