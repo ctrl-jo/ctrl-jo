@@ -14,7 +14,9 @@
 
 [<img align="left" alt="JosephMercado | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JosephMercado | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JosephMercado | Raket" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/revolut.svg" />][Raket]
 
+[raket]: https://www.raket.ph/josephmercado800
 [facebook]: https://www.facebook.com/joseph.d.mercado.9/
 [instagram]: https://www.instagram.com/mrcdseth/
 [linkedin]: https://www.linkedin.com/in/joseph-mercado-466b5231a/
