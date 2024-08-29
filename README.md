@@ -1,11 +1,5 @@
 <h1>Hi, I'm Joseph! <br/><a href="https://github.com/ctrl-jo/ctrl-jo">I.T Working Student</a> <a href="https://www.linkedin.com/in/joseph-mercado-466b5231a/"></a>
 
-<h2> 🤖 Software Development Learning:</h2>
-- <b>Currently Learning at CS50</b>
-- [CS50 Introduction to Programming] <b>
-  
-</b>(https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
-
 <h2>👨‍💻 Software Development Projects:</h2>
 - Soon to come! 
 
