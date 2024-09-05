@@ -4,14 +4,14 @@
 - Soon to come! 
 
 <h2>🌐 Programming Languages </h2>
-<img align="left" alt="JosephMercado | Html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
-<img align="top" alt="JosephMercado | Css" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
+<img align="left" alt="JosephMercado | Html" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
+<img align="top" alt="JosephMercado | Css" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
 
 <h2> 👤 Interact with me:</h2>
 
-[<img align="left" alt="JosephMercado | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JosephMercado | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="JosephMercado | Raket" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/revolut.svg" />][Raket]
+[<img align="left" alt="JosephMercado | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JosephMercado | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JosephMercado | Raket" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/revolut.svg" />][Raket]
 
 [raket]: https://www.raket.ph/josephmercado800
 [facebook]: https://www.facebook.com/joseph.d.mercado.9/
