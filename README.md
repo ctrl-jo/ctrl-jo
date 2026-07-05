@@ -41,7 +41,7 @@ I am a motivated I.T. working student building hands-on experience across the fu
 
 ---
 
-## Software Development Projects
+## Software Development Projects ![Status](https://img.shields.io/badge/Coming%20Soon-grey?style=flat-square)
 
 | Project Name | Description | Tech Used | Link |
 |---|---|---|---|
