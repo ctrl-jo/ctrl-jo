@@ -45,7 +45,7 @@ I am a motivated I.T. working student building hands-on experience across the fu
 
 | Project Name | Description | Tech Used | Link |
 |---|---|---|---|
-| YouTube Clone | A responsive frontend clone of the YouTube interface replicating desktop, tablet, and mobile layouts — built exclusively with HTML5 and CSS3, no JavaScript frameworks or backend services. | HTML, CSS | [Repository](https://github.com/ctrl-jo/Youtube-Clone) |
+| YouTube Clone | A responsive frontend clone of the YouTube interface replicating desktop, tablet, and mobile layouts. Built exclusively with HTML5 and CSS3, no JavaScript frameworks or backend services. | HTML, CSS | [Repository](https://github.com/ctrl-jo/Youtube-Clone) |
 
 
 ---
