@@ -41,7 +41,7 @@ I am a motivated I.T. working student building hands-on experience across the fu
 
 ---
 
-## Software Development Projects
+## Projects
 
 | Project Name  | Description                                                                                                                                                                                | Tech Used | Link                                                   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------------------------------ |
