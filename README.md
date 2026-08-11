@@ -25,6 +25,7 @@ I am a motivated I.T. working student building hands-on experience across the fu
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### Runtime / Tooling
 
@@ -32,11 +33,12 @@ I am a motivated I.T. working student building hands-on experience across the fu
 
 ### AI and Automation
 
-![Claude](https://img.shields.io/badge/Claude.ai-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude.ai-D97757?style=flat-square&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claudecode&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-333333?style=flat-square&logo=opensourceinitiative&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=opencode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
