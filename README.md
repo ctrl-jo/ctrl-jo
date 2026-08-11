@@ -1,8 +1,12 @@
-# Joseph
+<div align="center">
+
+# Joseph Mercado
 
 **I.T. Working Student** | [github.com/ctrl-jo](https://github.com/ctrl-jo)
 
 I am a motivated I.T. working student building hands-on experience across the full software development stack. My current focus spans frontend development, backend systems, and leveraging modern AI tooling to accelerate real-world project delivery. I approach every project as an opportunity to deepen my engineering fundamentals and deliver production-quality work.
+
+</div>
 
 ---
 
