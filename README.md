@@ -52,14 +52,14 @@ I am a motivated I.T. working student building hands-on experience across the fu
 ### Full Stack Apps
 
 | Project Name | Description | Tech Used | Link |
-|---|---|---|---|
+|---|---|---|:---:|
 | FlowPOS | An AI-powered, customizable POS system for small businesses. Built with React, Node.js, PostgreSQL, Claude.ai, Google Gemini, and Google Antigravity. | React, Node.js, PostgreSQL, AI Stack | Private Repository (In Active Development) |
 | AyudaTrack | A hackathon project for the eGovPH Hackathon 2026 proposing an additional solution service for the eGovPH Mobile App. Features an enhanced digital subsidy module covering 4Ps, Social Pension, AICS, and fuel subsidy to streamline distribution and eliminate queues. | React, TypeScript, Vite, Express, Firestore | [Live Demo](https://www.ayudatrack-egovph.online/) |
 
 ### Websites
 
 | Project Name | Description | Tech Used | Link |
-|---|---|---|---|
+|---|---|---|:---:|
 | YouTube Clone | A responsive frontend clone of the YouTube interface replicating desktop, tablet, and mobile layouts. Built exclusively with HTML5 and CSS3, no JavaScript frameworks or backend services. | HTML, CSS | [Repository](https://github.com/ctrl-jo/Youtube-Clone) |
 
 ---
