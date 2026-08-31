@@ -71,6 +71,6 @@ I am a motivated I.T. working student building hands-on experience across the fu
 
 ---
 
-> "A winner is just a loser who tried one more time."  
-> — *George M. Moore Jr.*
+> "As long as God wakes you up, He still has a plan for you."  
+> — *Jeremiah 29:11*
 
