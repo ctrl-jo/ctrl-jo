@@ -49,6 +49,12 @@ I am a motivated I.T. working student building hands-on experience across the fu
 
 ## Projects
 
+### Cloud Projects
+
+| Project Name | Description | Tech Used | Link |
+|:---:|---|---|:---:|
+| Cloud Resume Challenge — Azure | A full-stack cloud resume built on Microsoft Azure as part of the Cloud Resume Challenge. Demonstrates core Azure services including Azure Static Web Apps, Azure Functions, Cosmos DB, and Azure CDN, with CI/CD via GitHub Actions. | Azure Static Web Apps, Azure Functions, Cosmos DB, GitHub Actions | [Repository](https://github.com/ctrl-jo/Cloud-Resume-Challenge-Azure) |
+
 ### Full Stack Apps
 
 | Project Name | Description | Tech Used | Link |
