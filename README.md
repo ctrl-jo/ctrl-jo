@@ -30,7 +30,7 @@ I am a motivated I.T. working student building hands-on experience across the fu
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-4A154B?style=flat-square&logoColor=white)
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-0A0A0A?style=flat-square&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white)
 
 ### Databases
 
@@ -45,7 +45,7 @@ I am a motivated I.T. working student building hands-on experience across the fu
 ![PayMongo](https://img.shields.io/badge/PayMongo-00B4D8?style=flat-square&logoColor=white)
 ![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
 
-### Deployment & Infrastructure
+### Cloud Services & Infrastructure
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
