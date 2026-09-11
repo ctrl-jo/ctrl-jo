@@ -2,13 +2,15 @@
 
 # Joseph Mercado
 
-**I.T. Working Student** | [github.com/ctrl-jo](https://github.com/ctrl-jo)
+**Freelance Web Developer** | **Aspiring Cloud Engineer** | **Microsoft AZ-900 Certified**
 
-I am a motivated I.T. working student building hands-on experience across the full software development stack. My current focus spans frontend development, backend systems, and leveraging modern AI tooling to accelerate real-world project delivery. I approach every project as an opportunity to deepen my engineering fundamentals and deliver production-quality work.
+I am a motivated I.T. working student building hands-on experience across the full software development stack and cloud infrastructure. My current focus spans frontend development, backend systems, cloud engineering, and leveraging modern AI tooling to accelerate real-world project delivery. I approach every project as an opportunity to deepen my engineering fundamentals and deliver production-quality work.
 
 </div>
 
 ---
+
+<div align="center">
 
 ## Tech Stack
 
@@ -44,6 +46,8 @@ I am a motivated I.T. working student building hands-on experience across the fu
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=opencode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+</div>
 
 ---
 
