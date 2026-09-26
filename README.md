@@ -39,11 +39,13 @@ I am a motivated I.T. working student building hands-on experience across the fu
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+<!--
 ### Payments & Business Systems
 
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![PayMongo](https://img.shields.io/badge/PayMongo-00B4D8?style=flat-square&logoColor=white)
 ![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
+-->
 
 ### Cloud Services & Infrastructure
 
