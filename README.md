@@ -1,6 +1,6 @@
 <div align="center">
 
-# Joseph Mercado
+# Joseph Dimaano Mercado
 
 **Freelance Web Developer** | **Aspiring Cloud Engineer** | **Microsoft AZ-900 Certified**
 
