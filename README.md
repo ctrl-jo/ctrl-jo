@@ -106,7 +106,7 @@ OLD TECH STACK (commented out for reference)
 
 | Project Name | Description | Tech Used | Link |
 |:---:|---|---|:---:|
-| Cloud Resume Challenge — Azure | A full-stack cloud resume built on Microsoft Azure as part of the Cloud Resume Challenge. Demonstrates core Azure services including Azure Static Web Apps, Azure Functions, Cosmos DB, and Azure CDN, with CI/CD via GitHub Actions. | Azure Static Web Apps, Azure Functions, Cosmos DB, GitHub Actions | [Repository](https://github.com/ctrl-jo/Cloud-Resume-Challenge-Azure) |
+| Cloud Resume Challenge — Azure | A full-stack cloud resume built on Microsoft Azure as part of the Cloud Resume Challenge. Demonstrates core Azure services including Azure Static Web Apps, Azure Functions, Cosmos DB, and Azure CDN, with CI/CD via GitHub Actions. | Azure Static Web Apps, Azure Functions, Cosmos DB, GitHub Actions | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ctrl-jo/Cloud-Resume-Challenge-Azure) <br> [![Live Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://www.jdmercado.site) |
 
 ### Full Stack Apps
 
