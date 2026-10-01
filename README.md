@@ -106,20 +106,20 @@ OLD TECH STACK (commented out for reference)
 
 | Project Name | Description | Tech Used | Link |
 |:---:|---|---|:---:|
-| Cloud Resume Challenge — Azure | A full-stack cloud resume built on Microsoft Azure as part of the Cloud Resume Challenge. Demonstrates core Azure services including Azure Static Web Apps, Azure Functions, Cosmos DB, and Azure CDN, with CI/CD via GitHub Actions. | Azure Static Web Apps, Azure Functions, Cosmos DB, GitHub Actions | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ctrl-jo/Cloud-Resume-Challenge-Azure) <br> [![Live Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://www.jdmercado.site) |
+| Cloud Resume Challenge — Azure | A full-stack cloud resume built on Microsoft Azure as part of the Cloud Resume Challenge. Demonstrates core Azure services including Azure Static Web Apps, Azure Functions, Cosmos DB, and Azure CDN, with CI/CD via GitHub Actions. | Azure Static Web Apps, Azure Functions, Cosmos DB, GitHub Actions | [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)](https://github.com/ctrl-jo/Cloud-Resume-Challenge-Azure) <br> [![Live Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto)](https://www.jdmercado.site) |
 
 ### Full Stack Apps
 
 | Project Name | Description | Tech Used | Link |
 |:---:|---|---|:---:|
 | FlowPOS | POS system for small businesses. Built with React, Node.js, PostgreSQL, Claude.ai, Google Gemini, and Google Antigravity. | React, Node.js, PostgreSQL, AI Stack | Private Repository (In Active Development) |
-| AyudaTrack | A hackathon project for the eGovPH Hackathon 2026 proposing an additional solution service for the eGovPH Mobile App. Features an enhanced digital subsidy module covering 4Ps, Social Pension, AICS, and fuel subsidy to streamline distribution and eliminate queues. | React, TypeScript, Vite, Express, Firestore | [Live Demo](https://www.ayudatrack-egovph.online/) |
+| AyudaTrack | A hackathon project for the eGovPH Hackathon 2026 proposing an additional solution service for the eGovPH Mobile App. Features an enhanced digital subsidy module covering 4Ps, Social Pension, AICS, and fuel subsidy to streamline distribution and eliminate queues. | React, TypeScript, Vite, Express, Firestore | [![Live Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto)](https://www.ayudatrack-egovph.online/) |
 
 ### Websites
 
 | Project Name | Description | Tech Used | Link |
 |:---:|---|---|:---:|
-| YouTube Clone | A responsive frontend clone of the YouTube interface replicating desktop, tablet, and mobile layouts. Built exclusively with HTML5 and CSS3, no JavaScript frameworks or backend services. | HTML, CSS | [Repository](https://github.com/ctrl-jo/Youtube-Clone) |
+| YouTube Clone | A responsive frontend clone of the YouTube interface replicating desktop, tablet, and mobile layouts. Built exclusively with HTML5 and CSS3, no JavaScript frameworks or backend services. | HTML, CSS | [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)](https://github.com/ctrl-jo/Youtube-Clone) |
 
 ---
 
