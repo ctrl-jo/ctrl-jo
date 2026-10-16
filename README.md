@@ -119,7 +119,7 @@ OLD TECH STACK (commented out for reference)
 
 | Project Name | Description | Tech Used | Link |
 |:---:|---|---|:---:|
-| upskill-in-public | A free, beginner-friendly CS/IT learning kit with study paths, roadmaps, and reusable templates for tracking and sharing progress in public. Covers web development, mobile app development, and cloud engineering. | Markdown, GitHub | [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)](https://github.com/ctrl-jo/upskill-in-public) |
+| Upskill In Public | A free, beginner-friendly CS/IT learning kit with study paths, roadmaps, and reusable templates for tracking and sharing progress in public. Covers web development, mobile app development, and cloud engineering. | Markdown, GitHub | [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)](https://github.com/ctrl-jo/upskill-in-public) |
 | YouTube Clone | A responsive frontend clone of the YouTube interface replicating desktop, tablet, and mobile layouts. Built exclusively with HTML5 and CSS3, no JavaScript frameworks or backend services. | HTML, CSS | [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)](https://github.com/ctrl-jo/Youtube-Clone) |
 
 ---
