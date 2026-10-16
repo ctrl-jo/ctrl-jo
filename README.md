@@ -115,10 +115,11 @@ OLD TECH STACK (commented out for reference)
 | FlowPOS | POS system for small businesses. Built with React, Node.js, PostgreSQL, Claude.ai, Google Gemini, and Google Antigravity. | React, Node.js, PostgreSQL, AI Stack | Private Repository (In Active Development) |
 | AyudaTrack | A hackathon project for the eGovPH Hackathon 2026 proposing an additional solution service for the eGovPH Mobile App. Features an enhanced digital subsidy module covering 4Ps, Social Pension, AICS, and fuel subsidy to streamline distribution and eliminate queues. | React, TypeScript, Vite, Express, Firestore | [![Live Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto)](https://www.ayudatrack-egovph.online/) |
 
-### Websites
+### Websites & Open Source
 
 | Project Name | Description | Tech Used | Link |
 |:---:|---|---|:---:|
+| upskill-in-public | A free, beginner-friendly CS/IT learning kit with study paths, roadmaps, and reusable templates for tracking and sharing progress in public. Covers web development, mobile app development, and cloud engineering. | Markdown, GitHub | [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)](https://github.com/ctrl-jo/upskill-in-public) |
 | YouTube Clone | A responsive frontend clone of the YouTube interface replicating desktop, tablet, and mobile layouts. Built exclusively with HTML5 and CSS3, no JavaScript frameworks or backend services. | HTML, CSS | [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)](https://github.com/ctrl-jo/Youtube-Clone) |
 
 ---
