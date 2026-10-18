@@ -112,8 +112,10 @@ OLD TECH STACK (commented out for reference)
 
 | Project Name | Description | Tech Used | Link |
 |:---:|---|---|:---:|
-| FlowPOS | POS system for small businesses. Built with React, Node.js, PostgreSQL, Claude.ai, Google Gemini, and Google Antigravity. | React, Node.js, PostgreSQL, AI Stack | Private Repository (In Active Development) |
 | AyudaTrack | A hackathon project for the eGovPH Hackathon 2026 proposing an additional solution service for the eGovPH Mobile App. Features an enhanced digital subsidy module covering 4Ps, Social Pension, AICS, and fuel subsidy to streamline distribution and eliminate queues. | React, TypeScript, Vite, Express, Firestore | [![Live Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto)](https://www.ayudatrack-egovph.online/) |
+<!--
+| FlowPOS | POS system for small businesses. Built with React, Node.js, PostgreSQL, Claude.ai, Google Gemini, and Google Antigravity. | React, Node.js, PostgreSQL, AI Stack | Private Repository (In Active Development) |
+-->
 
 ### Websites & Open Source
 
