@@ -1,10 +1,10 @@
 <div align="center">
 
-# Joseph Dimaano Mercado
+# Joseph Mercado
 
-**Freelance Web Developer** | **Aspiring Cloud Engineer** | **Microsoft AZ-900 Certified**
+**AI-Driven Developer** | **Aspiring Cloud Engineer**
 
-I am a motivated I.T. working student building hands-on experience across the full software development stack and cloud infrastructure. My current focus spans frontend development, backend systems, cloud engineering, and leveraging modern AI tooling to accelerate real-world project delivery. I approach every project as an opportunity to deepen my engineering fundamentals and deliver production-quality work.
+AI-Driven Development is at the core of how I build. I create modern web applications with AI tools, work across the full stack development, and deploy cloud resources through Cloud Engineering. Currently growing as an I.T. student, I'm always learning and open to opportunities that let me build real, production-quality software.
 
 </div>
 
