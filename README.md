@@ -29,7 +29,6 @@ AI-Driven Development is at the core of how I build. I create modern web applica
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-4A154B?style=flat-square&logoColor=white)
 ![Google AI](https://img.shields.io/badge/Google_AI-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white)
 
 ### Databases
