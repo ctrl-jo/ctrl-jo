@@ -2,8 +2,6 @@
 
 # Joseph Mercado
 
-`guest@ctrl-jo:~$` Hey! Feel free to look around.
-
 **AI-Driven Developer** | **Aspiring Cloud Engineer**
 
 AI-Driven Development is at the core of how I build. I create modern web applications with AI tools, work across the full stack development, and deploy cloud resources through Cloud Engineering. Currently growing as an I.T. student, I'm always learning and open to opportunities that let me build real, production-quality software.
