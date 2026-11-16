@@ -1,5 +1,7 @@
 <div align="center">
 
+`guest@ctrl-jo:~$ echo "Hey! Feel free to look around."`
+
 # Joseph Mercado
 
 **AI-Driven Developer** | **Aspiring Cloud Engineer**
