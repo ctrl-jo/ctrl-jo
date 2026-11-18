@@ -107,7 +107,11 @@ OLD TECH STACK (commented out for reference)
 
 ---
 
+<div align="center">
+
 ## Projects
+
+</div>
 
 ### Cloud Projects
 
@@ -133,13 +137,22 @@ OLD TECH STACK (commented out for reference)
 
 ---
 
+<div align="center">
+
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jdm-tech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:josephmercado800@gmail.com)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@techwith.jdm)
+
+</div>
+
 ---
 
-> "As long as God wakes you up, He still has a plan for you."  
-> — *Jeremiah 29:11*
+<div align="center">
+
+*"As long as God wakes you up, He still has a plan for you."*  
+— *Jeremiah 29:11*
+
+</div>
 
